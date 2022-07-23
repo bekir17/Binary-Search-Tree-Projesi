@@ -4,7 +4,3 @@ www.patika.dev
 
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
-root 7 dir.roodun sağında 8 bulunur solunda .
-     # 7
-    /   \
-#  5     8
