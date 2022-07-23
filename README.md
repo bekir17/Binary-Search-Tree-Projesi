@@ -7,6 +7,6 @@ www.patika.dev
  # 7 nin sağında 8 solunda 6 yer alır.
  # 8 in sağında 9 yer alır.
  # 3 ün sağında 4 solunda 1 yer alır.
- # 1 in sağında 2 solunda 3 yer alır
+ # 1 in sağında 2 solunda 0 yer alır
 
 https://drive.google.com/file/d/10tELcQvYUZjjx_L-1Bp54hS4Z0Uli7it/view?usp=sharing
